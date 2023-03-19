@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLesson1", "ConsoleLesson1\ConsoleLesson1.csproj", "{A031A301-A330-4FDB-A84F-2F3A2E7F64DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW-L2", "..\HW-L2\HW-L2.csproj", "{45BA7B82-7C1A-42D4-8104-1B5E6051E681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A031A301-A330-4FDB-A84F-2F3A2E7F64DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A031A301-A330-4FDB-A84F-2F3A2E7F64DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A031A301-A330-4FDB-A84F-2F3A2E7F64DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BA7B82-7C1A-42D4-8104-1B5E6051E681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BA7B82-7C1A-42D4-8104-1B5E6051E681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BA7B82-7C1A-42D4-8104-1B5E6051E681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BA7B82-7C1A-42D4-8104-1B5E6051E681}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
