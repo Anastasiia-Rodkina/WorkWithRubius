@@ -8,7 +8,7 @@ namespace HWl2
         {
             Console.Write( "Укажите размер массива:");
             string inpn = Console.ReadLine();
-            inpn = inpn == "" ? "0" : inpn ?? "0";
+            inpn = inpn == "" ? "1" : inpn ?? "1";
             
             int n = int.Parse(inpn);
             
